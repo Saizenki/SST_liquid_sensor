@@ -1,5 +1,5 @@
 /*Created by Kush Manchanda (github.com/Saizenki)
-Download library from gihtub=
+Download library from gihtub= https://github.com/Saizenki/SST_liquid_sensor
 
 Liquid level detection using an SST sensor:Optomax Digital Liquid Sensor
 
