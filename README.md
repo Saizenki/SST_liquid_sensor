@@ -15,3 +15,7 @@ Steps to install:
 
 Error:
 If it shows error regarding ASCI, rename the zip to SLS
+
+Usage:
+Define pin number in instance of SST:-
+SST sst(your_pin_number)
